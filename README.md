@@ -1,3 +1,4 @@
+# Classifying article topics with matrix factorization
 In our information age, a vast amount of text is produced every day. Classifying text based solely on the information it contains can help make relevant information easier to find.
 
 Text classification is a task within the machine learning domain of Natural Language Processing (NLP). Both supervised and unsupervised methods are available for this task. These systems can be used to support information discovery, filter relevant information, and organize information for later retrieval.
